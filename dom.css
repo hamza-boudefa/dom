@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+    color: black;
+    margin-bottom: 100px;
+
+}
+.nav-items{
+    width: 600px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+main{
+    border: solid black;
+    
+}
+.items{
+    display: flex;
+    border:solid;
+    justify-content: space-around;
+}
